@@ -1,0 +1,30 @@
+2013-09-12 17:05:42 || document_model.php || 141 || Document -- Action :ADD 
+2013-09-12 17:05:42 || document_model.php || 148 || Document -- Upload Type :file 
+2013-09-12 17:05:42 || document_model.php || 203 || Document -- Upload File Call 
+2013-09-12 17:05:42 || common.php || 575 || Upload Common -- Upload File Details: FileName :invoice.html Destination:/var/www/pm/upload/excel/test 
+2013-09-12 17:05:42 || common.php || 598 || Upload Common -- Upload File Details: File Uploded at:/excel/test/invoice.html 
+2013-09-12 17:05:42 || common.php || 622 || Upload Common -- Upload File Details: File Permission Changed  
+2013-09-12 17:05:42 || document_model.php || 271 || Document -- Delete File :/var/www/pm/upload 
+2013-09-12 17:05:42 || document_model.php || 155 || Document -- File Uploded 
+2013-09-12 17:06:28 || document_model.php || 141 || Document -- Action :edit 
+2013-09-12 17:06:28 || document_model.php || 148 || Document -- Upload Type :file 
+2013-09-12 17:06:28 || document_model.php || 203 || Document -- Upload File Call 
+2013-09-12 17:06:28 || common.php || 575 || Upload Common -- Upload File Details: FileName : Destination:/var/www/pm/upload/excel/test 
+2013-09-12 17:06:28 || common.php || 622 || Upload Common -- Upload File Details: File Permission Changed  
+2013-09-12 17:06:28 || document_model.php || 209 || Document -- Upload File Error: No file was uploaded 
+2013-09-12 17:25:16 || document_model.php || 354 || Document -- Action :ADD 
+2013-09-12 17:25:16 || document_model.php || 361 || Document -- Upload Type :folder 
+2013-09-12 17:25:16 || document_model.php || 376 || Document -- New Folder :/excel/test/test1 
+2013-09-12 17:25:16 || document_model.php || 385 || Document -- Create Directory 
+2013-09-12 17:26:36 || document_model.php || 354 || Document -- Action :EDIT 
+2013-09-12 17:26:36 || document_model.php || 361 || Document -- Upload Type :folder 
+2013-09-12 17:26:36 || document_model.php || 376 || Document -- New Folder :/excel/test/test1 
+2013-09-12 17:26:36 || document_model.php || 380 || Document -- Rename Directory 
+2013-09-12 17:26:36 || document_model.php || 451 || Document -- Rename Directory: Old - /var/www/pm/upload/excel/test/test1 || New = /var/www/pm/upload/excel/test/test1 
+2013-09-12 17:26:36 || document_model.php || 471 || Document -- Rename Directory: SQL - UPDATE Documents SET `DocumentPath` = replace(`DocumentPath`,'/excel/test/test1','/excel/test/test1') WHERE DocumentPath LIKE '/excel/test/test1%' 
+2013-09-12 17:26:43 || document_model.php || 354 || Document -- Action :EDIT 
+2013-09-12 17:26:43 || document_model.php || 361 || Document -- Upload Type :folder 
+2013-09-12 17:26:43 || document_model.php || 376 || Document -- New Folder :/excel/test/test342 
+2013-09-12 17:26:43 || document_model.php || 380 || Document -- Rename Directory 
+2013-09-12 17:26:43 || document_model.php || 451 || Document -- Rename Directory: Old - /var/www/pm/upload/excel/test/test1 || New = /var/www/pm/upload/excel/test/test342 
+2013-09-12 17:26:43 || document_model.php || 471 || Document -- Rename Directory: SQL - UPDATE Documents SET `DocumentPath` = replace(`DocumentPath`,'/excel/test/test1','/excel/test/test342') WHERE DocumentPath LIKE '/excel/test/test1%' 

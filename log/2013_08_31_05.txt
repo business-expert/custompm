@@ -1,0 +1,12 @@
+2013-08-31 05:22:11 || document_model.php || 263 || Document -- Action :ADD 
+2013-08-31 05:22:11 || document_model.php || 270 || Document -- Upload Type :folder 
+2013-08-31 05:22:11 || document_model.php || 285 || Document -- New Folder :/test 
+2013-08-31 05:22:11 || document_model.php || 294 || Document -- Create Directory 
+2013-08-31 05:25:17 || document_model.php || 134 || Document -- Action :SAVE 
+2013-08-31 05:25:17 || document_model.php || 141 || Document -- Upload Type :file 
+2013-08-31 05:25:17 || document_model.php || 196 || Document -- Upload File Call 
+2013-08-31 05:25:17 || common.php || 570 || Upload Common -- Upload File Details: FileName :1.xps Destination:/var/www/pm/upload 
+2013-08-31 05:25:17 || common.php || 593 || Upload Common -- Upload File Details: File Uploded at:/1.xps 
+2013-08-31 05:25:17 || common.php || 617 || Upload Common -- Upload File Details: File Permission Changed  
+2013-08-31 05:25:17 || document_model.php || 264 || Document -- Delete File :/var/www/pm/upload 
+2013-08-31 05:25:17 || document_model.php || 148 || Document -- File Uploded 

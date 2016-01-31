@@ -1,0 +1,116 @@
+.divider {
+	background:url('../images/divider.png') repeat-x bottom;
+	padding-bottom:12px;
+}
+.treeview {
+	margin:0px;
+}
+.treeview ul :not(#dropdown-menu) {
+	list-style: none;
+	margin: 1px 0px 1px 1px;
+}
+.treeview .hitarea {
+	background: url('../images/tree/treeview-default.gif') -64px -25px no-repeat;
+	height: 16px;
+	width: 16px;
+	margin-left: -16px;
+	float: left;
+	cursor: pointer;
+}
+* html .hitarea {
+	display: inline;
+	float:none;
+}
+.treeview li {
+	margin: 0;
+	padding: 3px 0pt 3px 16px;
+}
+.treeview a.selected {
+	background-color: #eee;
+}
+#treecontrol {
+	margin: 1em 0;
+	display: none;
+}
+.treeview .hover {
+	color: red;
+	cursor: pointer;
+}
+.treeview li {
+	background: url('../images/tree/treeview-default-line.gif') 0 0 no-repeat;
+}
+.treeview li.collapsable, .treeview li.expandable {
+	background-position: 0 -176px;
+}
+.treeview .expandable-hitarea {
+	background-position: -80px -3px;
+}
+.treeview li.last {
+	background-position: 0 -1766px;
+}
+.treeview li.lastCollapsable, .treeview li.lastExpandable {
+	background-image: url('../images/tree/treeview-default.gif');
+}
+.treeview li.lastCollapsable {
+	background-position: 0 -111px;
+}
+.treeview li.lastExpandable {
+	background-position: -32px -67px;
+}
+.treeview div.lastCollapsable-hitarea, .treeview div.lastExpandable-hitarea {
+	background-position: 0;
+}
+/*--- Files Tree Styles ---*/
+.filetree li {
+	padding: 3px 0 2px 16px;
+}
+.filetree .folder, .filetree .file, .filetree .image {
+	padding: 0px 2px 1px 16px;
+	display: block;
+}
+.filetree .folder {
+	background: url('../images/tree/folder-open.png') 0 0 no-repeat;
+}
+.filetree li.expandable .folder {
+	background: url('../images/tree/folder.png') 0 0 no-repeat;
+}
+.filetree .file {
+	background: url('../images/tree/file.png') 0 0 no-repeat
+}
+.filetree .image {
+	background: url('../images/tree/image.png') 0 0 no-repeat;
+}
+.one_half, .one_third, .two_third, .one_fourth, .three_fourth, .one_fifth, .four_fifth {
+	float:left;
+	margin-right:4%;
+	margin-top:10px;
+	margin-bottom:10px
+}
+.one_half {
+	width: 48%;
+}
+.one_third {
+	width: 30.66%;
+}
+.two_third {
+	width:65.32%;
+}
+.one_fourth {
+	width:22%;
+}
+.one_fifth {
+	width: 16.8%;
+}
+.four_fifth {
+	width: 79.2%;
+}
+.three_fourth {
+	width:74%;
+}
+.last {
+	clear: right;
+	margin-right: 0 !important;
+}
+.nopadding {
+	padding:0 !important;
+}/* CSS Document */

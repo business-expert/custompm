@@ -1,0 +1,12 @@
+2013-08-29 11:13:50 || document_model.php || 146 || Document -- Action :EDIT 
+2013-08-29 11:13:50 || document_model.php || 153 || Document -- Upload Type :folder 
+2013-08-29 11:13:50 || document_model.php || 168 || Document -- New Folder :/pdf1 
+2013-08-29 11:13:50 || document_model.php || 172 || Document -- Rename Directory 
+2013-08-29 11:13:50 || document_model.php || 242 || Document -- Rename Directory: Old - /var/www/pm/upload/pdf || New = /var/www/pm/upload/pdf1 
+2013-08-29 11:13:50 || document_model.php || 262 || Document -- Rename Directory: SQL - UPDATE Documents SET `DocumentPath` = replace(`DocumentPath`,'/pdf','/pdf1') WHERE DocumentPath LIKE '/pdf%' 
+2013-08-29 11:14:40 || document_model.php || 146 || Document -- Action :EDIT 
+2013-08-29 11:14:40 || document_model.php || 153 || Document -- Upload Type :folder 
+2013-08-29 11:14:40 || document_model.php || 168 || Document -- New Folder :/pdf 
+2013-08-29 11:14:40 || document_model.php || 172 || Document -- Rename Directory 
+2013-08-29 11:14:40 || document_model.php || 242 || Document -- Rename Directory: Old - /var/www/pm/upload/pdf1 || New = /var/www/pm/upload/pdf 
+2013-08-29 11:14:40 || document_model.php || 262 || Document -- Rename Directory: SQL - UPDATE Documents SET `DocumentPath` = replace(`DocumentPath`,'/pdf1','/pdf') WHERE DocumentPath LIKE '/pdf1%' 

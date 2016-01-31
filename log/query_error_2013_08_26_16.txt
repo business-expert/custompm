@@ -1,0 +1,1 @@
+2013-08-26 16:26:54 || database.php || 42 || Query Error -- SELECT count(*) as total FROM members :: Table 'pm.members' doesn't exist 

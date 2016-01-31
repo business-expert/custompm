@@ -1,0 +1,20 @@
+2013-08-30 16:24:52 || document_model.php || 134 || Document -- Action :SAVE 
+2013-08-30 16:24:52 || document_model.php || 141 || Document -- Upload Type :folder 
+2013-08-30 16:24:52 || document_model.php || 156 || Document -- New Folder :/ 
+2013-08-30 16:24:52 || document_model.php || 165 || Document -- Create Directory 
+2013-08-30 16:35:45 || document_model.php || 165 || Document -- Action :ADD 
+2013-08-30 16:35:45 || document_model.php || 172 || Document -- Upload Type :file 
+2013-08-30 16:35:45 || document_model.php || 227 || Document -- Upload File Call 
+2013-08-30 16:35:45 || common.php || 570 || Upload Common -- Upload File Details: FileName :Matchboard.xlsx Destination:/var/www/pm/upload/excel 
+2013-08-30 16:35:45 || common.php || 593 || Upload Common -- Upload File Details: File Uploded at:/excel/Matchboard.xlsx 
+2013-08-30 16:35:45 || common.php || 617 || Upload Common -- Upload File Details: File Permission Changed  
+2013-08-30 16:35:45 || document_model.php || 293 || Document -- Delete File :/var/www/pm/upload 
+2013-08-30 16:35:45 || document_model.php || 179 || Document -- File Uploded 
+2013-08-30 16:41:15 || document_model.php || 167 || Document -- Action :ADD 
+2013-08-30 16:41:15 || document_model.php || 174 || Document -- Upload Type :file 
+2013-08-30 16:41:15 || document_model.php || 229 || Document -- Upload File Call 
+2013-08-30 16:41:15 || common.php || 570 || Upload Common -- Upload File Details: FileName :interviewQuestions.txt Destination:/var/www/pm/upload/excel 
+2013-08-30 16:41:15 || common.php || 593 || Upload Common -- Upload File Details: File Uploded at:/excel/interviewQuestions.txt 
+2013-08-30 16:41:15 || common.php || 617 || Upload Common -- Upload File Details: File Permission Changed  
+2013-08-30 16:41:15 || document_model.php || 295 || Document -- Delete File :/var/www/pm/upload 
+2013-08-30 16:41:15 || document_model.php || 181 || Document -- File Uploded 

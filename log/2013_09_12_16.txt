@@ -1,0 +1,8 @@
+2013-09-12 16:56:36 || document_model.php || 141 || Document -- Action :ADD 
+2013-09-12 16:56:36 || document_model.php || 148 || Document -- Upload Type :file 
+2013-09-12 16:56:36 || document_model.php || 203 || Document -- Upload File Call 
+2013-09-12 16:56:36 || common.php || 575 || Upload Common -- Upload File Details: FileName :index.txt Destination:/var/www/pm/upload 
+2013-09-12 16:56:36 || common.php || 598 || Upload Common -- Upload File Details: File Uploded at:/index.txt 
+2013-09-12 16:56:36 || common.php || 622 || Upload Common -- Upload File Details: File Permission Changed  
+2013-09-12 16:56:36 || document_model.php || 271 || Document -- Delete File :/var/www/pm/upload 
+2013-09-12 16:56:36 || document_model.php || 155 || Document -- File Uploded 

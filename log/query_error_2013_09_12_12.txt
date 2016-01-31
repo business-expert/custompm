@@ -1,0 +1,3 @@
+2013-09-12 12:38:46 || database.php || 42 || Query Error -- SELECT * FROM User WHERE `UserID` NOT IN ('1') ORDER BY created_datetime DESC :: Unknown column 'created_datetime' in 'order clause' 
+2013-09-12 12:45:23 || database.php || 42 || Query Error -- SELECT * FROM User WHERE `UserID` NOT IN ('1') ORDER BY created_datetime DESC :: Unknown column 'created_datetime' in 'order clause' 
+2013-09-12 12:50:13 || database.php || 42 || Query Error -- SELECT * FROM User as A LEFT JOIN JoinUserWorkgroup as B ON B.UserID = A.UserID LEFT JOIN Workgroup as C On C.WorkgroupID = B.WorkgroupID LEFT JOIN Role as D ON D.RoleID = B.RoleID WHERE A.`UserID` NOT IN ('1') ORDER BY UserID DESC :: Column 'UserID' in order clause is ambiguous 

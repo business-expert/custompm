@@ -1,0 +1,2 @@
+2013-08-27 15:24:38 || database.php || 42 || Query Error -- SELECT count(*) as total FROM members :: Table 'pm.members' doesn't exist 
+2013-08-27 15:36:59 || database.php || 42 || Query Error -- SELECT * FROM Documents AS A LEFT JOIN User AS C ON C.UserID = A.CreatedBy WHERE (A.`WorkgroupID`=0 OR A.`WorkgroupID` IS NULL :: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 

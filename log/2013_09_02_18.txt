@@ -1,0 +1,91 @@
+2013-09-02 18:02:43 || document_model.php || 483 || Document -- Delete File :/var/www/pm/upload/excel/interviewQuestions.txt 
+2013-09-02 18:04:12 || document_model.php || 483 || Document -- Delete File :/var/www/pm/upload/excel/Matchboard.xlsx 
+2013-09-02 18:05:53 || document_model.php || 483 || Document -- Delete File :/var/www/pm/upload/Gaurav/Heroes4it_live_sql_backup.sql.zip 
+2013-09-02 18:06:43 || document_model.php || 354 || Document -- Action :ADD 
+2013-09-02 18:06:43 || document_model.php || 361 || Document -- Upload Type :file 
+2013-09-02 18:06:43 || document_model.php || 416 || Document -- Upload File Call 
+2013-09-02 18:06:43 || common.php || 570 || Upload Common -- Upload File Details: FileName :heroes4it_04_04_13.sql Destination:/var/www/pm/upload/excel/NI/PHP 
+2013-09-02 18:06:43 || common.php || 593 || Upload Common -- Upload File Details: File Uploded at:/excel/NI/PHP/heroes4it_04_04_13.sql 
+2013-09-02 18:06:43 || common.php || 617 || Upload Common -- Upload File Details: File Permission Changed  
+2013-09-02 18:06:43 || document_model.php || 483 || Document -- Delete File :/var/www/pm/upload 
+2013-09-02 18:06:43 || document_model.php || 368 || Document -- File Uploded 
+2013-09-02 18:06:57 || document_model.php || 354 || Document -- Action :EDIT 
+2013-09-02 18:06:57 || document_model.php || 361 || Document -- Upload Type :file 
+2013-09-02 18:06:57 || document_model.php || 416 || Document -- Upload File Call 
+2013-09-02 18:06:57 || common.php || 570 || Upload Common -- Upload File Details: FileName : Destination:/var/www/pm/upload/excel/NI/PHP 
+2013-09-02 18:06:57 || common.php || 617 || Upload Common -- Upload File Details: File Permission Changed  
+2013-09-02 18:06:57 || document_model.php || 422 || Document -- Upload File Error: No file was uploaded 
+2013-09-02 18:07:24 || document_model.php || 354 || Document -- Action :EDIT 
+2013-09-02 18:07:24 || document_model.php || 361 || Document -- Upload Type :file 
+2013-09-02 18:07:24 || document_model.php || 416 || Document -- Upload File Call 
+2013-09-02 18:07:24 || common.php || 570 || Upload Common -- Upload File Details: FileName : Destination:/var/www/pm/upload/excel/NI/PHP 
+2013-09-02 18:07:24 || common.php || 617 || Upload Common -- Upload File Details: File Permission Changed  
+2013-09-02 18:07:24 || document_model.php || 422 || Document -- Upload File Error: No file was uploaded 
+2013-09-02 18:10:13 || document_model.php || 134 || Document -- Action :UPDATE 
+2013-09-02 18:10:13 || document_model.php || 141 || Document -- Upload Type :file 
+2013-09-02 18:10:13 || document_model.php || 196 || Document -- Upload File Call 
+2013-09-02 18:10:13 || common.php || 570 || Upload Common -- Upload File Details: FileName : Destination:/var/www/pm/upload/excel/NI/PHP 
+2013-09-02 18:10:13 || common.php || 617 || Upload Common -- Upload File Details: File Permission Changed  
+2013-09-02 18:11:37 || document_model.php || 354 || Document -- Action :EDIT 
+2013-09-02 18:11:37 || document_model.php || 361 || Document -- Upload Type :file 
+2013-09-02 18:11:37 || document_model.php || 416 || Document -- Upload File Call 
+2013-09-02 18:11:37 || common.php || 570 || Upload Common -- Upload File Details: FileName : Destination:/var/www/pm/upload/excel/NI/PHP 
+2013-09-02 18:11:37 || common.php || 617 || Upload Common -- Upload File Details: File Permission Changed  
+2013-09-02 18:11:37 || document_model.php || 422 || Document -- Upload File Error: No file was uploaded 
+2013-09-02 18:12:24 || document_model.php || 354 || Document -- Action :EDIT 
+2013-09-02 18:12:24 || document_model.php || 361 || Document -- Upload Type :file 
+2013-09-02 18:12:24 || document_model.php || 416 || Document -- Upload File Call 
+2013-09-02 18:12:24 || common.php || 570 || Upload Common -- Upload File Details: FileName : Destination:/var/www/pm/upload/excel/NI/PHP 
+2013-09-02 18:12:24 || common.php || 617 || Upload Common -- Upload File Details: File Permission Changed  
+2013-09-02 18:12:24 || document_model.php || 422 || Document -- Upload File Error: No file was uploaded 
+2013-09-02 18:13:11 || document_model.php || 354 || Document -- Action :EDIT 
+2013-09-02 18:13:11 || document_model.php || 361 || Document -- Upload Type :file 
+2013-09-02 18:13:11 || document_model.php || 416 || Document -- Upload File Call 
+2013-09-02 18:13:11 || common.php || 570 || Upload Common -- Upload File Details: FileName : Destination:/var/www/pm/upload/excel/NI/PHP 
+2013-09-02 18:13:11 || common.php || 617 || Upload Common -- Upload File Details: File Permission Changed  
+2013-09-02 18:13:11 || document_model.php || 422 || Document -- Upload File Error: No file was uploaded 
+2013-09-02 18:13:44 || document_model.php || 354 || Document -- Action :EDIT 
+2013-09-02 18:13:44 || document_model.php || 361 || Document -- Upload Type :file 
+2013-09-02 18:13:44 || document_model.php || 416 || Document -- Upload File Call 
+2013-09-02 18:13:44 || common.php || 570 || Upload Common -- Upload File Details: FileName : Destination:/var/www/pm/upload/excel/NI/PHP 
+2013-09-02 18:13:44 || common.php || 617 || Upload Common -- Upload File Details: File Permission Changed  
+2013-09-02 18:13:44 || document_model.php || 422 || Document -- Upload File Error: No file was uploaded 
+2013-09-02 18:14:09 || document_model.php || 354 || Document -- Action :EDIT 
+2013-09-02 18:14:09 || document_model.php || 361 || Document -- Upload Type :file 
+2013-09-02 18:14:09 || document_model.php || 416 || Document -- Upload File Call 
+2013-09-02 18:14:09 || common.php || 570 || Upload Common -- Upload File Details: FileName : Destination:/var/www/pm/upload/excel/NI/PHP 
+2013-09-02 18:14:09 || common.php || 617 || Upload Common -- Upload File Details: File Permission Changed  
+2013-09-02 18:14:09 || document_model.php || 422 || Document -- Upload File Error: No file was uploaded 
+2013-09-02 18:14:25 || document_model.php || 134 || Document -- Action :UPDATE 
+2013-09-02 18:14:25 || document_model.php || 141 || Document -- Upload Type :file 
+2013-09-02 18:14:25 || document_model.php || 196 || Document -- Upload File Call 
+2013-09-02 18:14:25 || common.php || 570 || Upload Common -- Upload File Details: FileName : Destination:/var/www/pm/upload/excel/NI/PHP 
+2013-09-02 18:14:25 || common.php || 617 || Upload Common -- Upload File Details: File Permission Changed  
+2013-09-02 18:14:34 || document_model.php || 354 || Document -- Action :EDIT 
+2013-09-02 18:14:34 || document_model.php || 361 || Document -- Upload Type :file 
+2013-09-02 18:14:34 || document_model.php || 416 || Document -- Upload File Call 
+2013-09-02 18:14:34 || common.php || 570 || Upload Common -- Upload File Details: FileName : Destination:/var/www/pm/upload/excel/NI/PHP 
+2013-09-02 18:14:34 || common.php || 617 || Upload Common -- Upload File Details: File Permission Changed  
+2013-09-02 18:14:34 || document_model.php || 422 || Document -- Upload File Error: No file was uploaded 
+2013-09-02 18:17:21 || document_model.php || 354 || Document -- Action :EDIT 
+2013-09-02 18:17:21 || document_model.php || 361 || Document -- Upload Type :file 
+2013-09-02 18:17:21 || document_model.php || 416 || Document -- Upload File Call 
+2013-09-02 18:17:21 || common.php || 570 || Upload Common -- Upload File Details: FileName : Destination:/var/www/pm/upload/excel/NI/PHP 
+2013-09-02 18:17:21 || common.php || 617 || Upload Common -- Upload File Details: File Permission Changed  
+2013-09-02 18:17:21 || document_model.php || 422 || Document -- Upload File Error: No file was uploaded 
+2013-09-02 18:25:36 || document_model.php || 354 || Document -- Action :ADD 
+2013-09-02 18:25:36 || document_model.php || 361 || Document -- Upload Type :file 
+2013-09-02 18:25:36 || document_model.php || 416 || Document -- Upload File Call 
+2013-09-02 18:25:36 || common.php || 570 || Upload Common -- Upload File Details: FileName :Submit.zip Destination:/var/www/pm/upload/Gaurav 
+2013-09-02 18:25:36 || common.php || 593 || Upload Common -- Upload File Details: File Uploded at:/Gaurav/Submit.zip 
+2013-09-02 18:25:36 || common.php || 617 || Upload Common -- Upload File Details: File Permission Changed  
+2013-09-02 18:25:36 || document_model.php || 483 || Document -- Delete File :/var/www/pm/upload 
+2013-09-02 18:25:36 || document_model.php || 368 || Document -- File Uploded 
+2013-09-02 18:27:31 || document_model.php || 354 || Document -- Action :ADD 
+2013-09-02 18:27:31 || document_model.php || 361 || Document -- Upload Type :file 
+2013-09-02 18:27:31 || document_model.php || 416 || Document -- Upload File Call 
+2013-09-02 18:27:31 || common.php || 570 || Upload Common -- Upload File Details: FileName :getAppDefault.esi Destination:/var/www/pm/upload/excel/NI/PHP 
+2013-09-02 18:27:31 || common.php || 593 || Upload Common -- Upload File Details: File Uploded at:/excel/NI/PHP/getAppDefault.esi 
+2013-09-02 18:27:31 || common.php || 617 || Upload Common -- Upload File Details: File Permission Changed  
+2013-09-02 18:27:31 || document_model.php || 483 || Document -- Delete File :/var/www/pm/upload 
+2013-09-02 18:27:31 || document_model.php || 368 || Document -- File Uploded 

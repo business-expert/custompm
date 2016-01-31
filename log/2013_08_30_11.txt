@@ -1,0 +1,20 @@
+2013-08-30 11:16:10 || document_model.php || 138 || Document -- Action :SAVE 
+2013-08-30 11:16:10 || document_model.php || 145 || Document -- Upload Type :folder 
+2013-08-30 11:16:10 || document_model.php || 160 || Document -- New Folder :/ 
+2013-08-30 11:16:10 || document_model.php || 169 || Document -- Create Directory 
+2013-08-30 11:24:14 || document_model.php || 138 || Document -- Action :SAVE 
+2013-08-30 11:24:14 || document_model.php || 145 || Document -- Upload Type :file 
+2013-08-30 11:24:14 || document_model.php || 200 || Document -- Upload File Call 
+2013-08-30 11:24:14 || common.php || 499 || Upload Common -- Upload File Details: FileName :charu.xlsx Destination:/var/www/pm/upload/excel/NI 
+2013-08-30 11:24:14 || common.php || 522 || Upload Common -- Upload File Details: File Uploded at:/excel/NI/charu.xlsx 
+2013-08-30 11:24:14 || common.php || 546 || Upload Common -- Upload File Details: File Permission Changed  
+2013-08-30 11:24:14 || document_model.php || 266 || Document -- Delete File :/var/www/pm/upload 
+2013-08-30 11:24:14 || document_model.php || 152 || Document -- File Uploded 
+2013-08-30 11:25:11 || document_model.php || 138 || Document -- Action :SAVE 
+2013-08-30 11:25:11 || document_model.php || 145 || Document -- Upload Type :file 
+2013-08-30 11:25:11 || document_model.php || 200 || Document -- Upload File Call 
+2013-08-30 11:25:11 || common.php || 499 || Upload Common -- Upload File Details: FileName :apache_start.bat Destination:/var/www/pm/upload/excel/NI/PHP 
+2013-08-30 11:25:12 || common.php || 522 || Upload Common -- Upload File Details: File Uploded at:/excel/NI/PHP/apache_start.bat 
+2013-08-30 11:25:12 || common.php || 546 || Upload Common -- Upload File Details: File Permission Changed  
+2013-08-30 11:25:12 || document_model.php || 266 || Document -- Delete File :/var/www/pm/upload 
+2013-08-30 11:25:12 || document_model.php || 152 || Document -- File Uploded 

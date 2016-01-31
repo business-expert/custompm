@@ -1,0 +1,14 @@
+2013-08-27 16:35:44 || document_model.php || 135 || Document -- Action :SAVE 
+2013-08-27 16:36:00 || document_model.php || 135 || Document -- Action :SAVE 
+2013-08-27 16:36:27 || document_model.php || 135 || Document -- Action :SAVE 
+2013-08-27 16:36:27 || document_model.php || 142 || Document -- Upload Type :folder 
+2013-08-27 16:36:27 || document_model.php || 157 || Document -- New Folder :/excel/NI/PHP 
+2013-08-27 16:36:27 || document_model.php || 166 || Document -- Create Directory 
+2013-08-27 16:39:11 || document_model.php || 135 || Document -- Action :SAVE 
+2013-08-27 16:39:11 || document_model.php || 142 || Document -- Upload Type :file 
+2013-08-27 16:39:11 || document_model.php || 197 || Document -- Upload File Call 
+2013-08-27 16:39:11 || common.php || 499 || Upload Common -- Upload File Details: FileName :79_Picture 18.png Destination:/var/www/pm/upload/excel/NI 
+2013-08-27 16:39:11 || common.php || 522 || Upload Common -- Upload File Details: File Uploded at:/excel/NI/79_Picture 18.png 
+2013-08-27 16:39:11 || common.php || 546 || Upload Common -- Upload File Details: File Permission Changed  
+2013-08-27 16:39:11 || document_model.php || 263 || Document -- Delete File :/var/www/pm/upload 
+2013-08-27 16:39:11 || document_model.php || 149 || Document -- File Uploded 
